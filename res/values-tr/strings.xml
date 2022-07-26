@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ana ekrana git</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="abc_action_mode_done">Bitti</string>
+    <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_capital_off">KAPAT</string>
+    <string name="abc_capital_on">AÇ</string>
+    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_query">Arama sorgusu</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="search_menu_title">Ara</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="madebydasqinnagiyev">dasqinnagiyev tarafından Azerbaycanda ❤️ ile yapıldı</string>
+    <string name="adimbir">Adım 1:</string>
+    <string name="adimiki">Adım 2:</string>
+    <string name="adimuc">"Adım 3: WhatsApp ayarlarına gidin ve 'Enter tuşu gönderir' seçeneğini etkinleştirin WhatsApp Ayarları>Sohbetler>Enter tuşu gönderir"</string>
+    <string name="vacib">Önemli</string>
+    <string name="aktivlesdir">Klavyeyi etkinleştir</string>
+    <string name="klaviaturasec">Klavyeyi seç</string>
+    <string name="davamet">Devam et</string>
+    <string name="gondereceyinmesaj">Göndermek istediğin mesajı yaz:</string>
+    <string name="necemesajgondereceksen">Kaç mesaj göndereceksin:</string>
+    <string name="istifadeqaydasi">Nasıl kullanılır</string>
+    <string name="toxunandatitret">Dokununca titret</string>
+    <string name="tetbiqlinki">Son mesajda uygulamanın linkini gönder</string>
+    <string name="dilelaveet">"Hatalı çeviri bildirmek veya kendi dilinizi eklemek için okuyun:
+
+https://t.me/daqomods/1423"</string>
+</resources>

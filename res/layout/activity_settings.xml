@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:background="#ff000000"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@id/lin_lay"
+        android:padding="20.0dip"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <Switch
+            android:textColor="#ffffffff"
+            android:id="@id/switch_vibrate"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="@string/toxunandatitret" />
+        <Switch
+            android:textColor="#ffffffff"
+            android:id="@id/switch_share"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="@string/tetbiqlinki" />
+        <LinearLayout
+            android:orientation="vertical"
+            android:padding="5.0dip"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textSize="15.0sp"
+                android:textColor="#ff00dbff"
+                android:textColorLink="#fff0f8ff"
+                android:gravity="center"
+                android:autoLink="web"
+                android:linksClickable="true"
+                android:background="@drawable/btndasqin"
+                android:paddingTop="5.0dip"
+                android:paddingBottom="5.0dip"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="App by dasqinnagiyev 🇦🇿\n\nChannel: https://t.me/daqomods  \n\nContact: https://instagram.com/dasqinnagiyev"
+                android:layout_weight="1.0"
+                android:lineSpacingExtra="2.0dip" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="vertical"
+            android:padding="5.0dip"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textSize="15.0sp"
+                android:textStyle="bold"
+                android:textColor="#ff000000"
+                android:textColorLink="#fff0f8ff"
+                android:gravity="center"
+                android:autoLink="web"
+                android:linksClickable="true"
+                android:background="@drawable/dasqindilelaveet"
+                android:paddingTop="5.0dip"
+                android:paddingBottom="5.0dip"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/dilelaveet"
+                android:layout_weight="1.0"
+                android:lineSpacingExtra="2.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

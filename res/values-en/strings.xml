@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="madebydasqinnagiyev">Made by dasqinnagiyev with ❤️ in Azerbaijan</string>
+    <string name="adimbir">Step 1:</string>
+    <string name="adimiki">Step 2:</string>
+    <string name="adimuc">"Step 3: Go to WhatsApp settings and activate the 'Enter key' option WhatsApp Settings>Chats>Enter sends the key"</string>
+    <string name="vacib">Important</string>
+    <string name="aktivlesdir">Enable the keyboard</string>
+    <string name="klaviaturasec">Choose the keyboard</string>
+    <string name="davamet">Continue</string>
+    <string name="gondereceyinmesaj">Write the message you want to send:</string>
+    <string name="necemesajgondereceksen">How many messages will you send:</string>
+    <string name="istifadeqaydasi">How to use</string>
+    <string name="toxunandatitret">Tremble when you touch</string>
+    <string name="tetbiqlinki">Send the Link of Application in the Last Post</string>
+    <string name="dilelaveet">"Read to report an error or adding your own language:
+
+https://t.me/daqomods/1423"</string>
+</resources>

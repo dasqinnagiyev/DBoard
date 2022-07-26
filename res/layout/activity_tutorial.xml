@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:background="#ff000000"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="20.0dip"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <TextView
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:gravity="center_horizontal"
+            android:id="@id/textView2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/adimbir" />
+        <Button
+            android:textColor="#ffffffff"
+            android:id="@id/button"
+            android:background="@drawable/dasqinbtn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/aktivlesdir"
+            android:onClick="openSt" />
+        <TextView
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:gravity="center_horizontal"
+            android:id="@id/textView3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20.0dip"
+            android:text="@string/adimiki" />
+        <Button
+            android:textColor="#ffffffff"
+            android:id="@id/button_select"
+            android:background="@drawable/dasqinbtn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/klaviaturasec"
+            android:onClick="selectKeyboard" />
+        <TextView
+            android:textSize="18.0sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/holo_red_dark"
+            android:gravity="center_horizontal"
+            android:id="@id/textView5"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20.0dip"
+            android:text="@string/vacib" />
+        <TextView
+            android:textStyle="bold"
+            android:textColor="@android:color/holo_red_dark"
+            android:gravity="center_horizontal"
+            android:id="@id/textView4"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/adimuc" />
+        <LinearLayout
+            android:orientation="vertical"
+            android:padding="5.0dip"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textSize="15.0sp"
+                android:textColor="#ff00dbff"
+                android:textColorLink="#fff0f8ff"
+                android:gravity="center"
+                android:autoLink="web"
+                android:linksClickable="true"
+                android:background="@drawable/btndasqin"
+                android:paddingTop="5.0dip"
+                android:paddingBottom="5.0dip"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/madebydasqinnagiyev"
+                android:layout_weight="1.0"
+                android:lineSpacingExtra="2.0dip" />
+        </LinearLayout>
+        <LinearLayout
+            android:gravity="bottom"
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+            <Button
+                android:textColor="#ffffffff"
+                android:id="@id/button_co"
+                android:background="@drawable/dasqinbtn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/davamet"
+                android:onClick="con_app" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

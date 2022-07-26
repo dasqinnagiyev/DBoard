@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Evə naviqasiya et</string>
+    <string name="abc_action_bar_up_description">Yuxarı get</string>
+    <string name="abc_action_menu_overflow_description">Digər variantlar</string>
+    <string name="abc_action_mode_done">Hazırdır</string>
+    <string name="abc_activity_chooser_view_see_all">Hamısına baxın</string>
+    <string name="abc_activitychooserview_choose_application">Tətbiq seçin</string>
+    <string name="abc_capital_off">DEAKTİV</string>
+    <string name="abc_capital_on">AKTİV</string>
+    <string name="abc_search_hint">Axtarış...</string>
+    <string name="abc_searchview_description_clear">Sorğunu təmizlə</string>
+    <string name="abc_searchview_description_query">Axtarış sorğusu</string>
+    <string name="abc_searchview_description_search">Axtarış</string>
+    <string name="abc_searchview_description_submit">Sorğunu göndərin</string>
+    <string name="abc_searchview_description_voice">Səsli axtarış</string>
+    <string name="abc_shareactionprovider_share_with">Bununla paylaşın</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ilə paylaşın</string>
+    <string name="abc_toolbar_collapse_description">Yığışdırın</string>
+    <string name="search_menu_title">Axtarış</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="madebydasqinnagiyev">dasqinnagiyev tərəfindən Azərbaycanda ❤️ ilə yaradılıb</string>
+    <string name="adimbir">Addım 1:</string>
+    <string name="adimiki">Addım 2:</string>
+    <string name="adimuc">"Addım 3: WhatsApp parametrlərinə gedin və 'Enter ilə göndər' xüsusiyyətini aktiv edin WhatsApp Parametrləri>Söhbətlər>Enter ilə göndər"</string>
+    <string name="vacib">Vacib</string>
+    <string name="aktivlesdir">Klaviaturanı aktivləşdir</string>
+    <string name="klaviaturasec">Klaviaturanı seç</string>
+    <string name="davamet">Davam et</string>
+    <string name="gondereceyinmesaj">Göndərmək istədiyin mesajı yaz:</string>
+    <string name="necemesajgondereceksen">Neçə mesaj göndərəcəksən:</string>
+    <string name="istifadeqaydasi">Necə istifadə etməli</string>
+    <string name="toxunandatitret">Toxunanda titrət</string>
+    <string name="tetbiqlinki">Son mesajda tətbiqin linkini göndər</string>
+    <string name="dilelaveet">"Xətalı çeviri bildirmək vəya öz dilini əlavə etmək üçün oxu:
+
+https://t.me/daqomods/1423"</string>
+</resources>
